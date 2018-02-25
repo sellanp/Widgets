@@ -142,4 +142,3 @@ class GridRemoteViewsFactory implements RemoteViewsService.RemoteViewsFactory {
         return true;
     }
 }
-
